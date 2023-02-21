@@ -16,6 +16,7 @@ Blackboard is an application designed for students and instructors for their cou
 <details>
   <summary> Goal </summary>
   The goals of this project is to reorange, remove, enhance, and simplify the UI and the widgets. Here is a list of the goals:  
+  
   - Create a footer at the bottom of the web page
   * Move every tab that contains Tech Resources/Help, Support
   + Move the "My Announcments", "Updates", "My Grades" tabs from drop menu near name to the navigation section
@@ -31,6 +32,12 @@ Blackboard is an application designed for students and instructors for their cou
 </details>
 
 <details>
-  <summary> Action Plan </summary>
+  <summary> Action Plan </summary>   
+  
+  - [ ] Gather all of the new features/information
+  - [ ] Create a rough draft by hand
+  - [ ] Transfer the draft to a digital draft
+  - [ ] Develop the digital draft into a static website
+  - [ ] Develop the user interacting website
 
 </details>

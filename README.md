@@ -11,13 +11,14 @@ Blackboard is an application designed for students and instructors for their cou
   
   <details>
     <summary> January 21th, 2023 </summary>
-    Complete Digital Draft #1. Some features where changed along the way. These include:  
+    Complete Digital Draft #1. Some features where changed along the way. These include:
     
-    - Addition of a tab in the navigation section, under the profile, called "Go To..."; when hovered, displays a drop down menu that contains links of important websites
-    * Modification of the "Important Dates" icon to change from colors to icons, add a setting option where user can customize
-    + Added a new widget called "Online Synchronous" which contains an online class, its meeting date and link
-    * Added a settings option for Tools where users can customize.
-    * Added a "Back to Top" tab between main screen and footer where user can click and it will go to the top
+    
+   - Addition of a tab in the navigation section, under the profile, called "Go To..."when hovered, displays a drop down menu that contains links of important websites
+   * Modification of the "Important Dates" icon to change from colors to icons, add a setting option where user can customize
+   + Added a new widget called "Online Synchronous" which contains an online class, its meeting date and link
+   - Added a settings option for Tools where users can customize
+   * Added a "Back to Top" tab between main screen and footer where user can click and it will go to the top 
     
   </details>
 

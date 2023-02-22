@@ -11,7 +11,7 @@ Blackboard is an application designed for students and instructors for their cou
   
   <details>
     <summary> January 21th, 2023 </summary>
-    Complete Digital Draft #1. Some features where changed along the way. These include:
+    Uploaded all of the used icons so far. Complete Digital Home Page Draft #1. Some features where changed along the way. These include:
     
     
    - Addition of a tab in the navigation section, under the profile, called "Go To..."when hovered, displays a drop down menu that contains links of important websites

@@ -4,6 +4,22 @@ Blackboard is an application designed for students and instructors for their cou
 
 <details>
   <summary> Updates </summary>
+  <details>
+    <summary> January 20th, 2023 </summary>
+    Project initiated. Completed Home Page General Format that displays sections of where content would go on the website. Most areas stayed the same except for the bottom which has a footer for resource/support links. Completed Widget Redesigns for all of the main widgets. Completed Home Page Example which is a rough draft of what the website would look like with the widgets in place and the footer. Draft by hand is completed and transfer to computer will commence shortly.
+  </details>
+  
+  <details>
+    <summary> January 21th, 2023 </summary>
+    Complete Digital Draft #1. Some features where changed along the way. These include:  
+    
+    - Addition of a tab in the navigation section, under the profile, called "Go To..."; when hovered, displays a drop down menu that contains links of important websites
+    * Modification of the "Important Dates" icon to change from colors to icons, add a setting option where user can customize
+    + Added a new widget called "Online Synchronous" which contains an online class, its meeting date and link
+    * Added a settings option for Tools where users can customize.
+    * Added a "Back to Top" tab between main screen and footer where user can click and it will go to the top
+    
+  </details>
 
 </details>
 
@@ -14,18 +30,15 @@ Blackboard is an application designed for students and instructors for their cou
 </details>
 
 <details>
-  <summary> Goal </summary>
+  <summary> Goals </summary>
   The goals of this project is to reorange, remove, enhance, and simplify the UI and the widgets. Here is a list of the goals:  
   
   - Create a footer at the bottom of the web page that contains related resources and support
   * Replace the current navigation tabs with more important tabs
   + Redesign the drop down menu near the profile
-  - Redesign the "My Courses" widget
-  * Create a new widget called "Important Dates" that has a calendar and color coded dates for due dates, past due dates, etc.
-  + Create a new widget called "Online Synchronous" that contains online class meeting links
-  - Insert an icon for accessbility
-  * Enlarge the user name and profile pictures
-  + Create a tab called "Go To" that when hovered, displays several links to important websites
+  - Redesign/rename/keep current widgets
+  * Improve the visibility of voice over feature
+  + Keep the current layout
 
 </details>
 

@@ -55,13 +55,61 @@ Blackboard is an application designed for students and instructors for their cou
 </details>
 
 <details>
+  <summary> Idea & Thoughts on the Changes </summary>
+  
+  <details>
+    <summary>Header Section</summary>
+    CUNY's iconic blue color logo replaces the white one. Though it is harder to see, it provides more recognition to it. The voicer over in the current home screen is very hard to see. Replacing it with a white accessibility icon makes it much more apparent.
+  </details>
+  
+  <details>
+    <summary>Navigation Section</summary>
+    The current navigation tabs are "Tech Resources/Help", "City College", and "City College Library" are seldom used. Replacing them with the tabs from the drop down menu near the profile, which are "My Announcements", "Updates", and "My Grades", provides much more value and accessibility as they are the ones that students typically access. When there are updates to each on of these tabs, then a red icon with a number will show up on their top right hand side. Also, a "Go To.." tab is very convienet, which when hovered, displays a drop down menu of links to other CUNY applications such as CUNYFirst, Degreeworks, College Library, etc.
+  </details>
+  
+  <details>
+    <summary>Announcements/Important Information</summary>
+    This section is in between the navigation section and the widgets. The anncounements are rearranged and should be updated on a basis to provide more relevant information. The course registration information remains unchanged.
+  </details>
+  
+  <details>
+    <summary>Widgets</summary>
+    There are a ton of widgets that students rarely use. Some widgets are unneccessary and some can be incorporated into others. 
+    <details>
+      <summary>My Courses</summary>
+      This widget is the first main widget. It cannot be condensed because it is the main reason why students access Blackboard. The old default design displays old courses and the most recent ones are at the bottom. Although it can be customized, it is still repetitive. These problems can be fixed by grouping courses by semester and adding an option to switch between terms by clicking the arrow. There are 2 modes for the widget: student mode and instructor mode. They will be default for each respective group. The option to customize its appearance is kept as students can choose what information about the course is displayed. If they choose more than 2, then the widget design would change and a drop down arrow would appear to the left of the course name. 
+    </details>
+    
+    <details>
+      <summary>Online Bookstore</summary>
+      This widget is the second main widget. The design for this widget will stay the same. However, when there are no books for the current semester, then this widget will be condensed and moved down. The "Tools" widget will take its place.
+    </details>
+    
+    <details>
+      <summary>Important Dates</summary>
+      This widget is the third main widget and can be condensed. This widget is mainly for students. The current Blackboard has a calendar elsewhere but making one as a widget is beneficial. Users can switch between months and there are two modes: course mode and institution mode. The course mode displays due dates, exam dates, completed assignments, etc. for all of the current semester and the institution mode displays holidays, start/end of semester, registration deadlines, etc. The functionality of the calendar will go as followed. As long as the mouse is hovered over the date, it will display the information on the bottom of the calendar. If the user clicks on a date, then the infomation will stay on the bottom and vice versa. If a date has multiple icons, then it will simply display them on the other sides of the date. Finally, there is a setting
+    </details>
+    
+    <details>
+      <summary>Online Synchronous</summary>
+    </details>
+    
+  </details>
+ 
+  <details>
+    <summary>Footer</summary>
+    A "Back to Top" button is useful when the webpage gets too long from the expanding of the widgets. This section is appropriate for tech help, support, and resources. It contains direct links that are previously inside "Tech Resources/Help", "City College", "City College Library" to make them more accessbile.
+  </details>
+
+</details>
+<details>
   <summary> Action Plan </summary>   
   
   - [x] Gather all of the new features/information
   - [x] Create a rough draft by hand
   - [x] Transfer the draft to a digital draft
   - [ ] Create diagrams for all user interact features
-  - [ ] Finalize digital draft
+  - [ ] Finalize digital dra
   - [ ] Develop the digital draft into a static website
   - [ ] Develop the user interacting website
 

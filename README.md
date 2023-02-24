@@ -74,34 +74,35 @@ Blackboard is an application designed for students and instructors for their cou
   
   <details>
     <summary>Widgets</summary>
-    There are a ton of widgets that students rarely use. Some widgets are unneccessary and some can be incorporated into others. 
+    There are a ton of widgets that students rarely use. Some widgets are unneccessary and some can be incorporated into others. In this project, there are 2 types are widgets: main and secondary. Main widgets are the most important ones and will be default. Secondary widgets are non default and situational that can be added to the main screen to the users.  
     <details>
       <summary>My Courses</summary>
       This widget is the first main widget. It cannot be condensed because it is the main reason why students access Blackboard. The old default design displays old courses and the most recent ones are at the bottom. Although it can be customized, it is still repetitive. These problems can be fixed by grouping courses by semester and adding an option to switch between terms by clicking the arrow. There are 2 modes for the widget: student mode and instructor mode. They will be default for each respective group. The option to customize its appearance is kept as students can choose what information about the course is displayed. If they choose more than 2, then the widget design would change and a drop down arrow would appear to the left of the course name. 
     </details>
-    
     <details>
       <summary>Online Bookstore</summary>
       This widget is the second main widget. The design for this widget will stay the same. However, when there are no books for the current semester, then this widget will be condensed and moved down. The "Tools" widget will take its place.
     </details>
-    
     <details>
       <summary>Important Dates</summary>
-      This widget is the third main widget and can be condensed. This widget is mainly for students. The current Blackboard has a calendar elsewhere but making one as a widget is beneficial. Users can switch between months and there are two modes: course mode and institution mode. The course mode displays due dates, exam dates, completed assignments, etc. for all of the current semester and the institution mode displays holidays, start/end of semester, registration deadlines, etc. The functionality of the calendar will go as followed. As long as the mouse is hovered over the date, it will display the information on the bottom of the calendar. If the user clicks on a date, then the infomation will stay on the bottom and vice versa. If a date has multiple icons, then it will simply display them on the other sides of the date. Finally, there is a setting
+      This widget is the third main widget and can be condensed. This widget is mainly for students. The current Blackboard has a calendar elsewhere but making one as a widget is beneficial. Users can switch between months and there are two modes: course mode and institution mode. The course mode displays due dates, exam dates, completed assignments, etc. for all of the current semester and the institution mode displays holidays, start/end of semester, registration deadlines, etc. The functionality of the calendar will go as followed. As long as the mouse is hovered over the date, it will display the information on the bottom of the calendar. If the user clicks on a date, then the infomation will stay on the bottom and vice versa. If a date has multiple icons, then it will simply display them on the other sides of the date. Finally, there is a setting mode where users can add personal dates and switch between icons and color.
     </details>
-    
     <details>
-      <summary>Online Synchronous</summary>
+      <summary>Student Resources, Tools, Online Synchronous</summary>
+      The first two are main widgets and acts as resources to users. "Online Synchronous" is a brand new widget that users can add when they have an online class. It serves as a quick way to access course meeting links without the hassle of finding it.
     </details>
-    
+    <details>
+      <summary>Other Widgets</summary>
+      As the project commences or if recieved recommendations, there may be other useful widgets to add.
+    </details>
   </details>
- 
   <details>
     <summary>Footer</summary>
     A "Back to Top" button is useful when the webpage gets too long from the expanding of the widgets. This section is appropriate for tech help, support, and resources. It contains direct links that are previously inside "Tech Resources/Help", "City College", "City College Library" to make them more accessbile.
   </details>
 
 </details>
+
 <details>
   <summary> Action Plan </summary>   
   

@@ -1,6 +1,10 @@
 # CUNY-Blackboard-Web-Redesign
 ## Summary
-Blackboard is an application designed for students and instructors for their courses. It allows students to access assignments and resources, view grades, and keep up with the class. It allows instructors to assign homework, announce important dates, and provide feedback to students. The current CUNY Blackboard home page design is outdated hence, this project is to design and develop a new model of the UI to rearrange, remove, enhance, and simplify elements while maintaining the integral structure.
+Blackboard is an application designed for students and instructors for their courses. It allows students to access assignments and resources, view grades, and keep up with the class. It allows instructors to assign homework, announce important dates, and provide feedback to students. The current CUNY Blackboard home page design is outdated hence, this project is to design and develop a new model of the UI to rearrange, remove, enhance, and simplify elements while maintaining the integral structure.  
+
+For insightful information on the changes, please go to "Ideas and Thoughts on the Changes".  
+
+Design Developed using Figma.
 
 <details>
   <summary> Updates </summary>

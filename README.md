@@ -37,7 +37,7 @@ Blackboard is an application designed for students and instructors for their cou
 
 <details>
   <summary> Purpose </summary>
-  Blackboard is a powerful tool for students and instructors to interact. The current UI has many displaced navigation tabs, excess information, and outdated widgets. The purpose of this project is to make the CUNY Blacbkboard home page easier for students and instructors to navigate through Blackboard. While this project mainly focuses on the home page, other pages are in consideration of a redesign. In addition, the simplicity and the structure of the current home page will be maintained.
+  Blackboard is a powerful tool for students and instructors to interact. The current UI has many displaced navigation tabs, excess information, and outdated widgets. Other CUNY applications such as CUNYfirst and Degreeworks have been updated and Blackboard would benefit from having one as well. The purpose of this project is to make the CUNY Blacbkboard home page easier for students and instructors to navigate through Blackboard. While this project mainly focuses on the home page, other pages are in consideration of a redesign. In addition, the simplicity and the structure of the current home page will be maintained.
 
 </details>
 

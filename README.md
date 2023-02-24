@@ -2,8 +2,7 @@
 ## Summary
 Blackboard is an application designed for students and instructors for their courses. It allows students to access assignments and resources, view grades, and keep up with the class. It allows instructors to assign homework, announce important dates, and provide feedback to students. The current CUNY Blackboard home page design is outdated hence, this project is to design and develop a new model of the UI to rearrange, remove, enhance, and simplify elements while maintaining the integral structure.  
 
-For insightful information on the changes, please go to "Ideas and Thoughts on the Changes".  
-
+For insightful information on the changes, please go to "Ideas and Thoughts on the Changes".<br><br>
 Design Developed using Figma.
 
 <details>
@@ -29,7 +28,7 @@ Design Developed using Figma.
 
   <details>
     <summary> January 23rd, 2023 </summary>
-    Completed the "Important Dates" widget folder and made updates to the completed home page. These include:  
+    Created the "Ideas and Thoughts on the Changes" section in the Readme file. Completed the "Important Dates" widget folder and made updates to the completed home page. These include:  
     
    - Added an arrow to the header of some widgets that users can manually click to condense or expand the widget
    * Addition of a tab in the navigation section, under the profile, called "Go To..."when hovered, displays a drop down menu that contains links of important websites

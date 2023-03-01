@@ -54,9 +54,11 @@ Design Developed using Figma.
   
   <details>
     <summary> March 1st, 2023 </summary>
-    Created the drop down menu for the profile. Started working on the customization page for the widgets.
+    Created the drop down menu for the profile. Started working on the customization page for the widgets.<br>
     
-    
+   Uploaded <a href="https://github.com/dyzhao1011/CUNY-Blackboard-Web-Redesign/blob/main/Digital%20Drafts/Home%20Page%20Example%203.pdf"> Home Page Example 3 </a> 
+     
+   The next step is to create the customization page for the widgets.
   </details>
 </details>
 

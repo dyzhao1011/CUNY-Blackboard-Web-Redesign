@@ -51,6 +51,13 @@ Design Developed using Figma.
    The next step is to create the design for the profile drop down menu.
 
   </details>
+  
+  <details>
+    <summary> March 1st, 2023 </summary>
+    Created the drop down menu for the profile. Started working on the customization page for the widgets.
+    
+    
+  </details>
 </details>
 
 <details>

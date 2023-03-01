@@ -8,13 +8,13 @@ Design Developed using Figma.
 <details>
   <summary> Updates </summary>
   <details>
-    <summary> January 20th, 2023 </summary>
+    <summary> February 20th, 2023 </summary>
     Project initiated. There's a rough idea of what the new design and widgets will look like. Keeping the current layout is something to keep in mind. Before digitalizing the design, I would like to create hand drawn drafts first. <br><br>Uploaded <a href="https://github.com/dyzhao1011/CUNY-Blackboard-Web-Redesign/blob/main/Rough%20Drafts/Home%20Page%20General%20Format.pdf">Home Page General Format</a> that displays sections of where content would go on the website. <br> Uploaded <a href="https://github.com/dyzhao1011/CUNY-Blackboard-Web-Redesign/blob/main/Rough%20Drafts/Widget%20Redesign.pdf">Widget Redesign</a> <br> Uploaded <a href="https://github.com/dyzhao1011/CUNY-Blackboard-Web-Redesign/blob/main/Rough%20Drafts/Home%20Page%20General%20Format.pdf">Complete Home Page Example</a> which is a rough draft of what the website would look like with the widgets in place and the footer. <br><br> Drafts by hand is completed. The next step is to digitialize the draft. The designs aren't final and there are things that I potentially might change or add.
     
   </details>
   
   <details>
-    <summary> January 21th, 2023 </summary>
+    <summary> February 21th, 2023 </summary>
     For the digital drafts, Figma will be used. This process was much faster than anticipated as it was done swiftly. A complete home page example was produced and some features where changed along the way. These include:
     
    - Modification of the "Important Dates" icon to change from colors to icons, add a setting option where user can customize
@@ -22,12 +22,12 @@ Design Developed using Figma.
    + Added a settings option for Tools where users can customize
    - Added a "Back to Top" tab between main screen and footer where user can click and it will go to the top 
    
-   Uploaded <a href="https://github.com/dyzhao1011/CUNY-Blackboard-Web-Redesign/blob/main/Digital%20Drafts/Home%20Page%20Example.pdf"> Home Page Example </a> <br>Created <a href="https://github.com/dyzhao1011/CUNY-Blackboard-Web-Redesign/tree/main/Digital%20Drafts/Widgets">Widgets</a> folder than will contain all of the redesigned widgets as well as variants. <br> Uploaded <a href="https://github.com/dyzhao1011/CUNY-Blackboard-Web-Redesign/tree/main/Digital%20Drafts/Widgets/%22My%20Courses%22%20Design%20%231">"My Courses" Design #1</a> <br> Uploaded <a href="https://github.com/dyzhao1011/CUNY-Blackboard-Web-Redesign/tree/main/Digital%20Drafts/Widgets/%22My%20Courses%22%20Design%20%232">"My Courses" Design #2</a> which has a complete set of design aside from the teacher and setting mode. <br> Uploaded <a href="https://github.com/dyzhao1011/CUNY-Blackboard-Web-Redesign/tree/main/Digital%20Drafts/Widgets/%22Online%20BookStore%22"> "Online Bookstore" </a> Uploaded <a href="https://github.com/dyzhao1011/CUNY-Blackboard-Web-Redesign/tree/main/Icons"> Icon</a> which contains all the icons and images used. <br><br> The 2 widgets "My Courses" and "Onine Bookstore" recieved their own design folder because they are essential widgets targets for this project. Other widgets, except "Important Dates" won't recieve their own folder or file because they're designs won't be changed or is simple. The next steps is to create "Important Dates" widget folder. 
+   Uploaded <a href="https://github.com/dyzhao1011/CUNY-Blackboard-Web-Redesign/blob/main/Digital%20Drafts/Home%20Page%20Example.pdf"> Home Page Example </a> <br>Created <a href="https://github.com/dyzhao1011/CUNY-Blackboard-Web-Redesign/tree/main/Digital%20Drafts/Widgets">Widgets</a> folder than will contain all of the redesigned widgets as well as variants. <br> Uploaded <a href="https://github.com/dyzhao1011/CUNY-Blackboard-Web-Redesign/tree/main/Digital%20Drafts/Widgets/%22My%20Courses%22%20Design%20%231">"My Courses" Design #1</a> <br> Uploaded <a href="https://github.com/dyzhao1011/CUNY-Blackboard-Web-Redesign/tree/main/Digital%20Drafts/Widgets/%22My%20Courses%22%20Design%20%232">"My Courses" Design #2</a> which has a complete set of design aside from the teacher and setting mode. <br> Uploaded <a href="https://github.com/dyzhao1011/CUNY-Blackboard-Web-Redesign/tree/main/Digital%20Drafts/Widgets/%22Online%20BookStore%22"> "Online Bookstore" </a><br> Uploaded <a href="https://github.com/dyzhao1011/CUNY-Blackboard-Web-Redesign/tree/main/Icons"> Icon</a> which contains all the icons and images used. <br><br> The 2 widgets "My Courses" and "Onine Bookstore" recieved their own design folder because they are essential widgets targets for this project. Other widgets, except "Important Dates" won't recieve their own folder or file because they're designs won't be changed or is simple. The next steps is to create "Important Dates" Widget folder. 
     
   </details>
 
   <details>
-    <summary> January 23rd, 2023 </summary>
+    <summary> February 23rd, 2023 </summary>
     Created the "Ideas and Thoughts on the Changes" section in the Readme file. Completed the "Important Dates" widget folder and made updates to the completed home page. These include:  
     
    - Added an arrow to the header of some widgets that users can manually click to condense or expand the widget
@@ -35,6 +35,21 @@ Design Developed using Figma.
   
    The next step is to create the designs for the different modes of the widgets, the "Go To..." tab, and the profile drop down menu.
     
+  </details>
+  
+  <details>
+    <summary> February 28th, 2023 </summary>
+    Modified the Home Page Example 1 to create a second model called Home Page Example 2. This model's changes include:
+    
+   - Improve spacing between sections
+   * Added and showcaes the UI drop down menu for "Go to..." heading
+   + Modified the "Online Synchronous" Widget to change from shortened meeting link to full meeting link
+   - Changed the "My Courses" Widget to Design #2
+    
+   Uploaded <a href="https://github.com/dyzhao1011/CUNY-Blackboard-Web-Redesign/blob/main/Digital%20Drafts/Home%20Page%20Example%202.pdf"> Home Page Example 2 </a>  
+    
+   The next step is to create the design for the profile drop down menu.
+
   </details>
 </details>
 

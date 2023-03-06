@@ -29,8 +29,8 @@ Design Developed using Figma.
    - Added a "Back to Top" tab between main screen and footer where user can click and it will go to the top 
    * Created "Widgets" folder than will contain all of the redesigned widgets as well as variants
    + Uploaded "Home Page Example", a digital draft, which is what the website would look like
-   - Uploaded "My Courses" Design #1 and "My Courses" Design #2, which has a complete set of design aside from the teacher and setting mode
-   * Uploaded "Online Bookstore"
+   - Uploaded "'My Courses' Design #1" and "'My Courses' Design #2", which has a complete set of design aside from the teacher and setting mode
+   * Uploaded "'Online Bookstore'"
    + Uploaded "Icon" which contains all the icons and images used.
    
    The 2 widgets "My Courses" and "Onine Bookstore" recieved their own design folder because they are essential widgets targets for this project. Other widgets, except "Important Dates" won't recieve their own folder or file because they're designs won't be changed or is simple. The next steps is to create "Important Dates" Widget design. 
@@ -77,7 +77,7 @@ Design Developed using Figma.
   </details>
   
   <details>
-    <summary> March 6th, 2023 </summary>
+    <summary> March 5th, 2023 </summary>
     Major updates were made to this repository. Today's work mostly included creation and modification to existing elements. Here is what was accomplished today: <br><br>
      
    - Removed the gray background in the expanded version of "My Courses" widget
@@ -86,12 +86,25 @@ Design Developed using Figma.
    - Renamed the Home Page files
    * Created a folder to separate the Home Page and other pages in GitHub
    + Uploaded verisons of "Important Dates" that includes color codes
-   - Uploaded "Select a Widget", Customize "My Courses", and Customize "Important Dates" for Customize Page
+   - Uploaded "Select a Widget", "Customize 'My Courses'", and "Customize 'Important Dates'" for Customize Page
    
    The next step is to create a design for the mobile version and to create the customization page for "Tools" and "Online Synchronous" widget.
     
   </details>
-</details>
+  
+  
+  <details>
+    <summary> March 6th, 2023 </summary>
+    Today's focus was on the "Online Synchronous" Customize Page and modification of little things on other elements. Here is what was accomplished today: <br><br>
+    
+   - Removed the "Settings" icon in "Tools" 
+   * Added the ability to select a time when adding an important date to "Important Date" widget
+   + Created the customize page for "Tools" widget that allows users to add a course meeting link to the widget
+   - Uploaded "Customize 'Tools'" to the Customize Page
+    
+   The decision to remove the customize page for "Tools" was made because of the widget is too simple. Instead of choosing what tool to display, the widget will just display all of the tools. At this point, all the pages for the Customize tab is completed. The decision to not design the pages for "My Announcements", "Updates", and "My Grades" is made because the current design is sufficient. Perhaps these pages will be worked on after the web development of the current designs. The next step is to design the "Settings" page in the drop down menu in the profile. 
+  </details>
+ </details>
 
 <details>
   <summary> Purpose </summary>

@@ -54,11 +54,23 @@ Design Developed using Figma.
   
   <details>
     <summary> March 1st, 2023 </summary>
-    Created the drop down menu for the profile. Started working on the customization page for the widgets.<br>
+    Change how the user profile looks and created the drop down menu for the profile. Started working on the customization page for the widgets.<br>
     
    Uploaded <a href="https://github.com/dyzhao1011/CUNY-Blackboard-Web-Redesign/blob/main/Digital%20Drafts/Home%20Page%20Example%203.pdf"> Home Page Example 3 </a> 
      
    The next step is to create the customization page for the widgets.
+  </details>
+  
+  <details>
+    <summary> March 6th, 2023 </summary>
+    Today's work mostly included creation and modification to existing elements. This model's changes include:  
+    
+   - Created a folder to separate the Home Page and other pages in GitHub
+   * Removed the gray background in the expanded version of "My Courses" widget
+   + Created versions of "Important Dates" to include color codes
+   - Modified the color scheme of the "Go To..." Tab to match the surround colors
+   * Created the Home Page, Customize "My Courses", and Customize "Important Dates" for Customize Page
+    
   </details>
 </details>
 

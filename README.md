@@ -7,6 +7,7 @@ Design Developed using Figma.
 
 <details>
   <summary> Updates </summary>
+ <ul>
   <details>
     <summary> February 20th, 2023 </summary>
     Project initiated. There's a rough idea of what the new design and widgets will look like. Keeping the current layout is something to keep in mind. Before digitalizing the design, creating hand drawn drafts is important. Here is what was accomplished today: <br><br>
@@ -104,8 +105,24 @@ Design Developed using Figma.
     
    The decision to remove the customize page for "Tools" was made because of the widget is too simple. Instead of choosing what tool to display, the widget will just display all of the tools. At this point, all the pages for the Customize tab is completed. The decision to not design the pages for "My Announcements", "Updates", and "My Grades" is made because the current design is sufficient. Perhaps these pages will be worked on after the web development of the current designs. The next step is to design the "Settings" page in the drop down menu in the profile. 
   </details>
+ 
+ <details>
+  <summary> March 11th, 2023 </summary>
+  Today's focus was on minor adjustment to layout and appearance. Here is what was accomplished today: <br><br>
+  
+  - Updated the indicator that shows the user what tab they are at in the home page from blocky to curvy to match with the other changes
+  * Changed the design of the Go To... drop menu from blocky to curvy
+  + Replaced the old black cursor with a white one to improve visibility
+  - Darkened the cursor hover color in the Profile Drop Menu to improve visibility
+  * Separated the edit section from the comparison section in the Customization of the widgets with a line
+  + Added a Delete option for the "Important Dates" and "Online Synchronous" customization
+  - Changed from "Submit" to "Save" in the customization pages for better representation
+  * Updated the format of some files from .png to .pdf
+  
+  The next steps will be the "Settings", "My Announcements", "Updates", and "My Grades" page. The idea for the "Settings" page will mostly have a section on the left which categorizing the type of setting the user can modify and a big section on the right of the actual settings option. Upon further investigation, the current "My Announcements" widget and "Updates" page are similar. The "My Announcements" widget only includes announcements posted to the course by the instructor while the "Updates" pages includes that and assignments that are posted. The idea for those 2 pages is to combine them. The idea for "My Grades" will take on a similar design to the current one.
+  </details>
  </details>
-
+ </ul>
 <details>
   <summary> Purpose </summary>
   Blackboard is a powerful tool for students and instructors to interact. The current UI has many displaced navigation tabs, excess information, and outdated widgets. Other CUNY applications such as CUNYfirst and Degreeworks have been updated and Blackboard would benefit from having one as well. The purpose of this project is to make the CUNY Blacbkboard home page easier for students and instructors to navigate through Blackboard. While this project mainly focuses on the home page, other pages are in consideration of a redesign. In addition, the simplicity and the structure of the current home page will be maintained.
@@ -114,7 +131,7 @@ Design Developed using Figma.
 
 <details>
   <summary> Goals </summary>
-  The goals of this project is to reorange, remove, enhance, and simplify the UI and the widgets. Here is a list of the goals:  
+  The goals of this project is to reorange, remove, enhance, and simplify the UI and the widgets. Here is a list of the main goals:  
   
   - Create a footer at the bottom of the web page that contains related resources and support
   * Replace the current navigation tabs with more important tabs
@@ -122,12 +139,13 @@ Design Developed using Figma.
   - Redesign/rename/keep current widgets
   * Improve the visibility of voice over feature
   + Keep the current layout
+  - Design a "Customize" page that allows users to customize their widgets
 
 </details>
 
 <details>
   <summary> Idea & Thoughts on the Changes </summary>
-  
+ <ul>
   <details>
     <summary>Header Section</summary>
     CUNY's iconic blue color logo replaces the white one. Though it is harder to see, it provides more recognition to it. The voicer over in the current home screen is very hard to see. Replacing it with a white accessibility icon makes it much more apparent.
@@ -146,6 +164,7 @@ Design Developed using Figma.
   <details>
     <summary>Widgets</summary>
     There are a ton of widgets that students rarely use. Some widgets are unneccessary and some can be incorporated into others. In this project, there are 2 types are widgets: main and secondary. Main widgets are the most important ones and will be default. Secondary widgets are non default and situational that can be added to the main screen to the users.  
+   <ul>
     <details>
       <summary>My Courses</summary>
       This widget is the first main widget. It cannot be condensed because it is the main reason why students access Blackboard. The old default design displays old courses and the most recent ones are at the bottom. Although it can be customized, it is still repetitive. These problems can be fixed by grouping courses by semester and adding an option to switch between terms by clicking the arrow. There are 2 modes for the widget: student mode and instructor mode. They will be default for each respective group. The option to customize its appearance is kept as students can choose what information about the course is displayed. If they choose more than 2, then the widget design would change and a drop down arrow would appear to the left of the course name. 
@@ -167,13 +186,14 @@ Design Developed using Figma.
       As the project commences or if recieved recommendations, there may be other useful widgets to add.
     </details>
   </details>
+ </ul>
   <details>
     <summary>Footer</summary>
     A "Back to Top" button is useful when the webpage gets too long from the expanding of the widgets. This section is appropriate for tech help, support, and resources. It contains direct links that are previously inside "Tech Resources/Help", "City College", "City College Library" to make them more accessbile.
   </details>
 
 </details>
-
+</ul>
 <details>
   <summary> Action Plan </summary>   
   

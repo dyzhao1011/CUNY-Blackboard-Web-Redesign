@@ -16,7 +16,7 @@ Design Developed using Figma.
    * Uploaded "Widget Redesign" that has a rough idea of what the new widgets will look like
    + Uploaded "Complete Home Page Example" which is what the website would look like with the widgets in place and the footer  
    
-   Drafts by hand is completed. The next step is to digitialize the draft. The designs aren't final and there are things that might be changed or added.
+   <br>Drafts by hand is completed. The next step is to digitialize the draft. The designs aren't final and there are things that might be changed or added.
     
   </details>
   
@@ -32,9 +32,9 @@ Design Developed using Figma.
    + Uploaded "Home Page Example", a digital draft, which is what the website would look like
    - Uploaded "'My Courses' Design #1" and "'My Courses' Design #2", which has a complete set of design aside from the teacher and setting mode
    * Uploaded "'Online Bookstore'"
-   + Uploaded "Icon" which contains all the icons and images used.
+   + Uploaded "Icon" which contains all the icons and images used
    
-   The 2 widgets "My Courses" and "Onine Bookstore" recieved their own design folder because they are essential widgets targets for this project. Other widgets, except "Important Dates" won't recieve their own folder or file because they're designs won't be changed or is simple. The next steps is to create "Important Dates" Widget design. 
+   <br>The 2 widgets "My Courses" and "Onine Bookstore" recieved their own design folder because they are essential widgets targets for this project. Other widgets, except "Important Dates" won't recieve their own folder or file because they're designs won't be changed or is simple. The next steps is to create "Important Dates" Widget design. 
     
   </details>
 
@@ -47,7 +47,7 @@ Design Developed using Figma.
    + Uploaded "Important Dates" Design #1 & "Important Dates" Design #2
    - Created the "Ideas and Thoughts on the Changes" section in the Readme file
   
-   The next step is to create the designs for the different modes of the widgets, the "Go To..." tab, and the profile drop down menu.
+   <br>The next step is to create the designs for the different modes of the widgets, the "Go To..." tab, and the profile drop down menu.
     
   </details>
   
@@ -62,7 +62,7 @@ Design Developed using Figma.
    * Changed the "My Courses" Widget to Design #2
    + Uploaded "Home Page Example 2", which displays the "Go to..." drop down menu
     
-   The next step is to create the design for the profile drop down menu.
+   <br>The next step is to create the design for the profile drop down menu.
 
   </details>
   
@@ -74,7 +74,7 @@ Design Developed using Figma.
    * Created the drop down menu for the profile
    + Uploaded "Home Page Example 3", which displays the profile drop down menu
      
-   The next step is to create the customization page for the widgets.
+   <br>The next step is to create the customization page for the widgets.
   </details>
   
   <details>
@@ -89,7 +89,7 @@ Design Developed using Figma.
    + Uploaded verisons of "Important Dates" that includes color codes
    - Uploaded "Select a Widget", "Customize 'My Courses'", and "Customize 'Important Dates'" for Customize Page
    
-   The next step is to create a design for the mobile version and to create the customization page for "Tools" and "Online Synchronous" widget.
+   <br>The next step is to create a design for the mobile version and to create the customization page for "Tools" and "Online Synchronous" widget.
     
   </details>
   
@@ -103,7 +103,7 @@ Design Developed using Figma.
    + Created the customize page for "Tools" widget that allows users to add a course meeting link to the widget
    - Uploaded "Customize 'Tools'" to the Customize Page
     
-   The decision to remove the customize page for "Tools" was made because of the widget is too simple. Instead of choosing what tool to display, the widget will just display all of the tools. At this point, all the pages for the Customize tab is completed. The decision to not design the pages for "My Announcements", "Updates", and "My Grades" is made because the current design is sufficient. Perhaps these pages will be worked on after the web development of the current designs. The next step is to design the "Settings" page in the drop down menu in the profile. 
+   <br>The decision to remove the customize page for "Tools" was made because of the widget is too simple. Instead of choosing what tool to display, the widget will just display all of the tools. At this point, all the pages for the Customize tab is completed. The decision to not design the pages for "My Announcements", "Updates", and "My Grades" is made because the current design is sufficient. Perhaps these pages will be worked on after the web development of the current designs. The next step is to design the "Settings" page in the drop down menu in the profile. 
   </details>
  
  <details>
@@ -119,8 +119,20 @@ Design Developed using Figma.
   - Changed from "Submit" to "Save" in the customization pages for better representation
   * Updated the format of some files from .png to .pdf
   
-  The next steps will be the "Settings", "My Announcements", "Updates", and "My Grades" page. The idea for the "Settings" page will mostly have a section on the left which categorizing the type of setting the user can modify and a big section on the right of the actual settings option. Upon further investigation, the current "My Announcements" widget and "Updates" page are similar. The "My Announcements" widget only includes announcements posted to the course by the instructor while the "Updates" pages includes that and assignments that are posted. The idea for those 2 pages is to combine them. The idea for "My Grades" will take on a similar design to the current one.
+  <br>The next steps will be the "Settings", "My Announcements", "Updates", and "My Grades" page. The idea for the "Settings" page will mostly have a section on the left which categorizing the type of setting the user can modify and a big section on the right of the actual settings option. Upon further investigation, the current "My Announcements" widget and "Updates" page are similar. The "My Announcements" widget only includes announcements posted to the course by the instructor while the "Updates" pages includes that and assignments that are posted. The idea for those 2 pages is to combine them. The idea for "My Grades" will take on a similar design to the current one.
   </details>
+  
+ <details>
+  <summary> March 13th, 2023 </summary>
+  Today was the beginning of designing the Settings Page. Here is what was accomplished today: <br><br>
+  
+  - Designed the navigation bar in the Settings Page 
+  * Created user interaction, such as hover and select of the navigation bar
+  + Uploaded "Settings Page" folder which contains the default page, the "Profile Section" folder, the "Appearance Section", and the "Privacy Section"; each folder contains how it will look if the user hovers, or selects the option
+  
+  <br>The idea for the navigation bar is that once the user hovers over a section, then more options relating to the section will appear smoothly beneath it. None of the actual customization of the settings was completed today, and the design will mostly stay the same as the current designs. The next step will be to include the current designs into Settings Page.
+ </details>
+ 
  </details>
  </ul>
 <details>

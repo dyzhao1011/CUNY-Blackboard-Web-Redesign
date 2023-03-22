@@ -132,6 +132,17 @@ Design Developed using Figma.
   
   <br>The idea for the navigation bar is that once the user hovers over a section, then more options relating to the section will appear smoothly beneath it. None of the actual customization of the settings was completed today, and the design will mostly stay the same as the current designs. The next step will be to include the current designs into Settings Page.
  </details>
+   
+ <details>
+   <summary> March 22nd, 2023 </summary>
+   The main objective today was to finish the Settings Page. Here is what was accomplished today: <br><br>
+   
+  - Removed the "Customize Widget" section under "Appearance" because it has it own page 
+  * Completed every section using screenshots of current model
+  + Uploaded and updated files in "Settings Page"
+   
+  <br> Screenshots were used to shorten the process. The current designs are sufficient enough. Courtesy of Blackboard Inc. of their designs. The next steps are to design the "My Announcements", "Updates", and "My Grades" page.
+ </details>
  
  </details>
  </ul>

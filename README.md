@@ -144,6 +144,16 @@ Design Developed using Figma.
   <br> Screenshots were used to shorten the process. The current designs are sufficient enough. Courtesy of Blackboard Inc. of their designs. The next steps are to design the "My Announcements", "Updates", and "My Grades" page.
  </details>
  
+ <details>
+  <summary> March 27th, 2023 </summary>
+  The main goal today was to get started on the "My Announcement" and "Updates" page. Here is what was accomplished today: <br><br>
+  
+  - Created the "My Announcement/Updates" page
+  * Uploaded the folder "My Announcement & Updates Page" which contains the default page for the section
+  
+  <br> The decision to combine "My Announcements" and "Updates" pages was made because of the similarties between the two pages. The design is similar to the current "Announcement" widget. The "My Grades" page will stay the same so this project won't create a design for that page. The next step is to design the mobile version of the app and to finalize the design for both so the development of the actual website can begin.
+ </details>
+ 
  </details>
  </ul>
 <details>
